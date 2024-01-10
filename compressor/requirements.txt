@@ -1,0 +1,2 @@
+Pillow>=8.4.0  # Use a compatible version
+pika==1.2.0
